@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">한국</string>
+    <string name="action_settings">Settings</string>
+    <string name="lang">한국어</string>
+    <string name="developer">John Sung</string>
+</resources>
